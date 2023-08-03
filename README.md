@@ -1,7 +1,7 @@
 # clerk_django_integration
 
 ## Tutorial Link
-[https://lucasleite-us.medium.com/integrating-clerk-with-django-rest-framework-e1e2f041dba2](Tutorial Link)
+[Tutorial Link](https://lucasleite-us.medium.com/integrating-clerk-with-django-rest-framework-e1e2f041dba2 )
 
 ### Our goal
 
